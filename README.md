@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Moses Quayson</h1>
-<h3 align="center">A passionate applications developer with experience in .Net, Laravel & React</h3>
+<h3 align="center">A passionate software developer with experience in .Net, Laravel & React</h3>
 
 <p align="left"> <a href="https://twitter.com/moquayson" target="blank"><img src="https://img.shields.io/twitter/follow/moquayson?logo=twitter&style=for-the-badge" alt="moquayson" /></a> </p>
 
