@@ -3,11 +3,9 @@
 
 <p align="left"> <a href="https://twitter.com/moquayson" target="blank"><img src="https://img.shields.io/twitter/follow/moquayson?logo=twitter&style=for-the-badge" alt="moquayson" /></a> </p>
 
-- 🌱 I’m currently learning **Caching Systems, ElasticSearch & Actor Models**
+- 🌱 I’m currently learning **Caching Systems,Apache Kafka, ElasticSearch & Actor Models**
 
-- 👯 I’m looking to collaborate on **Laravel and dotNet Projects**
-
-- 🤝 I’m looking for help with **Laravel and dotNet Projects**
+- 👯 I’m looking to collaborate on **Laravel and .Net Core Projects**
 
 - 💬 Ask me about **React, Java, .Net Core and Laravel**
 
