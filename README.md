@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/moquayson" target="blank"><img src="https://img.shields.io/twitter/follow/moquayson?logo=twitter&style=for-the-badge" alt="moquayson" /></a> </p>
 
-- 🌱 I’m currently learning **gRPC & Clean Architechture**
+<!-- - 🌱 I’m currently learning **gRPC & Clean Architechture** -->
 
 - 👯 I’m looking to collaborate on **Golang, Laravel and .Net Core Projects**
 
